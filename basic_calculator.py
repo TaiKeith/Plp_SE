@@ -1,4 +1,4 @@
-#!usr/bin/python3
+#!/usr/bin/python3
 
 # Ask the user to input two numbers
 num1 = float(input("Enter the first number: "))
